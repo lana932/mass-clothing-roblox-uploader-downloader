@@ -15,7 +15,8 @@ Clothing Uploader
  # Setup
 - Make sure you have python 3.10.0 installed, with add to path option checked during installation, and run Setup.exe then Requirements.bat to install all required modules
 
-Open config.ini fill in your details
+Open setup.exe and then
+- Open config.ini fill in your details
 - Follow the format how it already is
 - Save the file config.ini
 
